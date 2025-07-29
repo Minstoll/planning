@@ -1,0 +1,32 @@
+(define (problem block-problem)
+  (:domain block-stacking)
+  (:objects 
+    B C D F G H I J K L
+  )
+  (:init
+    (hand-empty)
+    (clear B) (on-table B)
+    (clear C) (on-table C)
+    (clear D) (on-table D)
+    (clear F) (on-table F)
+    (clear G) (on-table G)
+    (clear H) (on-table H)
+    (clear I) (on-table I)
+    (clear J) (on-table J)
+    (clear K) (on-table K)
+    (clear L) (on-table L)
+  )
+  (:goal
+    (and
+      (on B I)
+      (on C K)
+      (on D C)
+      (on F G)
+      (on G L)
+      (on H D)
+      (on I H)
+      (on J B)
+      (on L J)
+    )
+  )
+)

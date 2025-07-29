@@ -1,0 +1,22 @@
+(define (problem arrange-blocks)
+  (:domain block-arrangement)
+  (:objects B D E F H I J K L)
+  (:init
+    (hand-empty)
+    (clear B) (clear D) (clear E) (clear F) (clear H) (clear I) (clear J) (clear K) (clear L)
+    (on-table B) (on-table D) (on-table E) (on-table F)
+    (on-table H) (on-table I) (on-table J) (on-table K) (on-table L)
+  )
+  (:goal
+    (and
+      (on B D)
+      (on D K)
+      (on E I)
+      (on F B)
+      (on H E)
+      (on J L)
+      (on K J)
+      (on L H)
+    )
+  )
+)

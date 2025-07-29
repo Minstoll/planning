@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nl_query": "As initial conditions I have that, the hand is empty, the B block is clear, the D block is clear, the F block is clear, the G block is clear, the H block is clear, the I block is clear, the J block is clear, the L block is clear, the B block is on the table, the D block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the J block is on the table, and the L block is on the table.\nMy goal is to have that the B block is on top of the H block, the D block is on top of the B block, the F block is on top of the I block, the G block is on top of the D block, the H block is on top of the L block, the I block is on top of the G block, and the J block is on top of the F block."
+  },
+  {
+    "id": 2,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the G block is clear, the H block is clear, the I block is clear, the J block is clear, the K block is clear, the A block is on the table, the B block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the J block is on the table, and the K block is on the table.\nMy goal is to have that the A block is on top of the B block, the B block is on top of the K block, the G block is on top of the A block, the H block is on top of the I block, the J block is on top of the G block, and the K block is on top of the H block."
+  },
+  {
+    "id": 3,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the C block is clear, the F block is clear, the I block is clear, the J block is clear, the K block is clear, the A block is on the table, the C block is on the table, the F block is on the table, the I block is on the table, the J block is on the table, and the K block is on the table.\nMy goal is to have that the A block is on top of the F block, the C block is on top of the I block, the F block is on top of the K block, the J block is on top of the A block, and the K block is on top of the C block."
+  },
+  {
+    "id": 4,
+    "nl_query": "As initial conditions I have that, the hand is empty, the B block is clear, the F block is clear, the G block is clear, the J block is clear, the B block is on the table, the F block is on the table, the G block is on the table, and the J block is on the table.\nMy goal is to have that the F block is on top of the B block, the G block is on top of the J block, and the J block is on top of the F block."
+  },
+  {
+    "id": 5,
+    "nl_query": "As initial conditions I have that, the hand is empty, the B block is clear, the C block is clear, the D block is clear, the F block is clear, the G block is clear, the H block is clear, the I block is clear, the J block is clear, the K block is clear, the L block is clear, the B block is on the table, the C block is on the table, the D block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the J block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the B block is on top of the I block, the C block is on top of the K block, the D block is on top of the C block, the F block is on top of the G block, the G block is on top of the L block, the H block is on top of the D block, the I block is on top of the H block, the J block is on top of the B block, and the L block is on top of the J block."
+  },
+  {
+    "id": 6,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the C block is clear, the D block is clear, the E block is clear, the F block is clear, the G block is clear, the H block is clear, the I block is clear, the J block is clear, the K block is clear, the L block is clear, the A block is on the table, the B block is on the table, the C block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the J block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the F block, the B block is on top of the D block, the C block is on top of the I block, the E block is on top of the J block, the F block is on top of the B block, the G block is on top of the A block, the H block is on top of the E block, the I block is on top of the K block, the J block is on top of the G block, the K block is on top of the L block, and the L block is on top of the H block."
+  },
+  {
+    "id": 7,
+    "nl_query": "As initial conditions I have that, the hand is empty, the D block is clear, the E block is clear, the G block is clear, the J block is clear, the D block is on the table, the E block is on the table, the G block is on the table, and the J block is on the table.\nMy goal is to have that the D block is on top of the J block, the E block is on top of the D block, and the G block is on top of the E block."
+  },
+  {
+    "id": 8,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the D block is clear, the E block is clear, the F block is clear, the H block is clear, the I block is clear, the J block is clear, the A block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the H block is on the table, the I block is on the table, and the J block is on the table.\nMy goal is to have that the D block is on top of the F block, the E block is on top of the H block, the F block is on top of the I block, the H block is on top of the D block, the I block is on top of the A block, and the J block is on top of the E block."
+  },
+  {
+    "id": 9,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the C block is clear, the D block is clear, the E block is clear, the F block is clear, the G block is clear, the J block is clear, the K block is clear, the L block is clear, the A block is on the table, the B block is on the table, the C block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the G block is on the table, the J block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the D block, the B block is on top of the F block, the C block is on top of the L block, the D block is on top of the E block, the F block is on top of the J block, the G block is on top of the K block, the J block is on top of the C block, the K block is on top of the A block, and the L block is on top of the G block."
+  },
+  {
+    "id": 10,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the D block is clear, the E block is clear, the F block is clear, the A block is on the table, the B block is on the table, the D block is on the table, the E block is on the table, and the F block is on the table.\nMy goal is to have that the A block is on top of the B block, the B block is on top of the F block, the D block is on top of the E block, and the E block is on top of the A block."
+  },
+  {
+    "id": 11,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the C block is clear, the E block is clear, the G block is clear, the H block is clear, the I block is clear, the J block is clear, the K block is clear, the L block is clear, the A block is on the table, the B block is on the table, the C block is on the table, the E block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the J block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the L block, the C block is on top of the K block, the E block is on top of the H block, the G block is on top of the A block, the H block is on top of the I block, the I block is on top of the B block, the J block is on top of the E block, the K block is on top of the G block, and the L block is on top of the J block."
+  },
+  {
+    "id": 12,
+    "nl_query": "As initial conditions I have that, the hand is empty, the F block is clear, the I block is clear, the K block is clear, the L block is clear, the F block is on the table, the I block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the I block is on top of the K block, the K block is on top of the L block, and the L block is on top of the F block."
+  },
+  {
+    "id": 13,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the C block is clear, the D block is clear, the E block is clear, the F block is clear, the G block is clear, the H block is clear, the I block is clear, the J block is clear, the K block is clear, the L block is clear, the A block is on the table, the C block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the J block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the H block, the C block is on top of the E block, the D block is on top of the A block, the E block is on top of the J block, the F block is on top of the G block, the G block is on top of the K block, the H block is on top of the C block, the I block is on top of the D block, the J block is on top of the L block, and the L block is on top of the F block."
+  },
+  {
+    "id": 14,
+    "nl_query": "As initial conditions I have that, the hand is empty, the E block is clear, the G block is clear, the L block is clear, the E block is on the table, the G block is on the table, and the L block is on the table.\nMy goal is to have that the E block is on top of the G block and the L block is on top of the E block."
+  },
+  {
+    "id": 15,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the D block is clear, the E block is clear, the F block is clear, the G block is clear, the H block is clear, the I block is clear, the K block is clear, the L block is clear, the A block is on the table, the B block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the B block is on top of the G block, the D block is on top of the I block, the E block is on top of the A block, the F block is on top of the L block, the G block is on top of the E block, the H block is on top of the F block, the I block is on top of the H block, the K block is on top of the B block, and the L block is on top of the K block."
+  },
+  {
+    "id": 16,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the C block is clear, the D block is clear, the E block is clear, the F block is clear, the G block is clear, the H block is clear, the I block is clear, the K block is clear, the L block is clear, the A block is on the table, the B block is on the table, the C block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the I block, the B block is on top of the C block, the C block is on top of the G block, the D block is on top of the A block, the E block is on top of the B block, the F block is on top of the L block, the G block is on top of the H block, the H block is on top of the F block, the I block is on top of the K block, and the K block is on top of the E block."
+  },
+  {
+    "id": 17,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the C block is clear, the D block is clear, the E block is clear, the F block is clear, the H block is clear, the J block is clear, the K block is clear, the L block is clear, the A block is on the table, the B block is on the table, the C block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the H block is on the table, the J block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the J block, the B block is on top of the C block, the C block is on top of the K block, the D block is on top of the F block, the E block is on top of the D block, the H block is on top of the A block, the J block is on top of the E block, the K block is on top of the L block, and the L block is on top of the H block."
+  },
+  {
+    "id": 18,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the C block is clear, the E block is clear, the G block is clear, the K block is clear, the L block is clear, the A block is on the table, the C block is on the table, the E block is on the table, the G block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the G block, the E block is on top of the L block, the G block is on top of the C block, the K block is on top of the E block, and the L block is on top of the A block."
+  },
+  {
+    "id": 19,
+    "nl_query": "As initial conditions I have that, the hand is empty, the B block is clear, the D block is clear, the E block is clear, the F block is clear, the G block is clear, the H block is clear, the I block is clear, the J block is clear, the K block is clear, the L block is clear, the B block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the J block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the B block is on top of the K block, the D block is on top of the I block, the E block is on top of the D block, the G block is on top of the H block, the H block is on top of the F block, the I block is on top of the G block, the J block is on top of the B block, the K block is on top of the E block, and the L block is on top of the J block."
+  },
+  {
+    "id": 20,
+    "nl_query": "As initial conditions I have that, the hand is empty, the B block is clear, the D block is clear, the F block is clear, the B block is on the table, the D block is on the table, and the F block is on the table.\nMy goal is to have that the B block is on top of the F block and the D block is on top of the B block."
+  },
+  {
+    "id": 21,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the C block is clear, the D block is clear, the F block is clear, the G block is clear, the H block is clear, the I block is clear, the K block is clear, the L block is clear, the A block is on the table, the B block is on the table, the C block is on the table, the D block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the I block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the F block, the B block is on top of the H block, the C block is on top of the D block, the D block is on top of the G block, the F block is on top of the I block, the G block is on top of the K block, the H block is on top of the L block, the I block is on top of the B block, and the K block is on top of the A block."
+  },
+  {
+    "id": 22,
+    "nl_query": "As initial conditions I have that, the hand is empty, the B block is clear, the C block is clear, the F block is clear, the G block is clear, the K block is clear, the B block is on the table, the C block is on the table, the F block is on the table, the G block is on the table, and the K block is on the table.\nMy goal is to have that the B block is on top of the K block, the C block is on top of the B block, the G block is on top of the C block, and the K block is on top of the F block."
+  },
+  {
+    "id": 23,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the D block is clear, the F block is clear, the H block is clear, the A block is on the table, the B block is on the table, the D block is on the table, the F block is on the table, and the H block is on the table.\nMy goal is to have that the A block is on top of the B block, the B block is on top of the H block, the D block is on top of the F block, and the H block is on top of the D block."
+  },
+  {
+    "id": 24,
+    "nl_query": "As initial conditions I have that, the hand is empty, the B block is clear, the D block is clear, the E block is clear, the F block is clear, the H block is clear, the I block is clear, the J block is clear, the K block is clear, the L block is clear, the B block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the H block is on the table, the I block is on the table, the J block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the B block is on top of the D block, the D block is on top of the K block, the E block is on top of the I block, the F block is on top of the B block, the H block is on top of the E block, the J block is on top of the L block, the K block is on top of the J block, and the L block is on top of the H block."
+  },
+  {
+    "id": 25,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the C block is clear, the J block is clear, the A block is on the table, the C block is on the table, and the J block is on the table.\nMy goal is to have that the A block is on top of the C block and the J block is on top of the A block."
+  },
+  {
+    "id": 26,
+    "nl_query": "As initial conditions I have that, the hand is empty, the E block is clear, the F block is clear, the K block is clear, the E block is on the table, the F block is on the table, and the K block is on the table.\nMy goal is to have that the E block is on top of the K block and the F block is on top of the E block."
+  },
+  {
+    "id": 27,
+    "nl_query": "As initial conditions I have that, the hand is empty, the D block is clear, the E block is clear, the F block is clear, the G block is clear, the H block is clear, the K block is clear, the L block is clear, the D block is on the table, the E block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the K block is on the table, and the L block is on the table.\nMy goal is to have that the D block is on top of the H block, the E block is on top of the D block, the F block is on top of the K block, the H block is on top of the G block, the K block is on top of the L block, and the L block is on top of the E block."
+  },
+  {
+    "id": 28,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the C block is clear, the D block is clear, the F block is clear, the G block is clear, the H block is clear, the J block is clear, the K block is clear, the A block is on the table, the C block is on the table, the D block is on the table, the F block is on the table, the G block is on the table, the H block is on the table, the J block is on the table, and the K block is on the table.\nMy goal is to have that the C block is on top of the G block, the D block is on top of the K block, the F block is on top of the C block, the G block is on top of the A block, the H block is on top of the D block, the J block is on top of the H block, and the K block is on top of the F block."
+  },
+  {
+    "id": 29,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the C block is clear, the D block is clear, the F block is clear, the G block is clear, the I block is clear, the J block is clear, the L block is clear, the A block is on the table, the C block is on the table, the D block is on the table, the F block is on the table, the G block is on the table, the I block is on the table, the J block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the I block, the C block is on top of the F block, the D block is on top of the A block, the F block is on top of the D block, the G block is on top of the C block, the I block is on top of the J block, and the J block is on top of the L block."
+  },
+  {
+    "id": 30,
+    "nl_query": "As initial conditions I have that, the hand is empty, the A block is clear, the B block is clear, the C block is clear, the D block is clear, the E block is clear, the F block is clear, the G block is clear, the I block is clear, the L block is clear, the A block is on the table, the B block is on the table, the C block is on the table, the D block is on the table, the E block is on the table, the F block is on the table, the G block is on the table, the I block is on the table, and the L block is on the table.\nMy goal is to have that the A block is on top of the G block, the C block is on top of the B block, the D block is on top of the F block, the E block is on top of the D block, the F block is on top of the A block, the G block is on top of the C block, the I block is on top of the L block, and the L block is on top of the E block."
+  }
+]

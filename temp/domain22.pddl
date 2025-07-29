@@ -1,0 +1,51 @@
+(define (domain blockworld)
+  (:predicates
+    (clear ?x)
+    (on-table ?x)
+    (holding ?x)
+    (empty-hand)
+    (on ?x ?y)
+  )
+
+  (:action pick-up
+    :parameters (?block)
+    :precondition (and (clear ?block) (on-table ?block) (empty-hand))
+    :effect (and (holding ?block)
+                 (not (clear ?block))
+                 (not (on-table ?block))
+                 (not (empty-hand))
+    )
+  )
+
+  (:action put-down
+    :parameters (?block)
+    :precondition (holding ?block)
+    :effect (and (on-table ?block)
+                 (clear ?block)
+                 (empty-hand)
+                 (not (holding ?block))
+    )
+  )
+
+  (:action stack
+    :parameters (?block ?target)
+    :precondition (and (holding ?block) (clear ?target))
+    :effect (and (on ?block ?target)
+                 (not (clear ?target))
+                 (clear ?block)
+                 (empty-hand)
+                 (not (holding ?block))
+    )
+  )
+
+  (:action unstack
+    :parameters (?block ?below)
+    :precondition (and (on ?block ?below) (clear ?block) (empty-hand))
+    :effect (and (holding ?block)
+                 (clear ?below)
+                 (not (on ?block ?below))
+                 (not (clear ?block))
+                 (not (empty-hand))
+    )
+  )
+)
