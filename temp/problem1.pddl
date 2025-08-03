@@ -1,16 +1,18 @@
-(define (problem block-problem)
-  (:domain blocksworld)
+(define (problem block-stacking-problem)
+  (:domain block-stacking)
 
-  (:objects
-    B D F G H I J L
-  )
+  (:objects B D F G H I J L)
 
   (:init
-    (empty-hand)
-    (clear B) (clear D) (clear F) (clear G)
-    (clear H) (clear I) (clear J) (clear L)
-    (on-table B) (on-table D) (on-table F) (on-table G)
-    (on-table H) (on-table I) (on-table J) (on-table L)
+    (handempty)
+    (clear B) (ontable B)
+    (clear D) (ontable D)
+    (clear F) (ontable F)
+    (clear G) (ontable G)
+    (clear H) (ontable H)
+    (clear I) (ontable I)
+    (clear J) (ontable J)
+    (clear L) (ontable L)
   )
 
   (:goal
