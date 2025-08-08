@@ -150,6 +150,6 @@ def build_dataset(path: str, output_file: str) -> None:
 
 if __name__ == "__main__":
 
-    pddl_file_path = "./blocksworld/blocksworld_problems_pddl"
-    output_file = "./blocksworld/blocksworld_problems_nl.json"
+    pddl_file_path = "./blocksworld/blocksworld_hard_pddl"
+    output_file = "./blocksworld/blocksworld_hard_nl.json"
     build_dataset(pddl_file_path, output_file)

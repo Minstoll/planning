@@ -1,0 +1,6 @@
+[
+  {
+    "id": 100,
+    "nl_query": "As initial conditions I have that, the hand is empty, the C block is clear, the D block is clear, the E block is clear, the C block is on top of the G block, the E block is on top of the H block, the F block is on top of the B block, the G block is on top of the A block, the H block is on top of the F block, the A block is on the table, the B block is on the table, and the D block is on the table.\nMy goal is to have that the A block is on top of the E block, the C block is on top of the G block, the D block is on top of the A block, the F block is on top of the C block, the G block is on top of the H block, and the H block is on top of the B block."
+  }
+]
